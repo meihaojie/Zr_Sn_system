@@ -1,5 +1,5 @@
-# MTP_potentials
-## The developed moment tensor potentials
+# Interatomic potentials 
+## The developed moment tensor potentials (MTP)
 
 ### Zr-Sn system:
 
@@ -11,4 +11,12 @@ If you use the dataset or/and the potential, please cite: <https://doi.org/10.10
 
 > Haojie Mei, Liang Chen, Feifei Wang, et al. Development of Machine Learning and Empirical Interatomic Potentials for the Binary Zr-Sn System[J]. Journal of Nuclear Materials, 2023: 154794.
 
-If you are interested in the Zr-Sn MEAM potential, you can check the MEAM_potentials repository.
+## The developed modified embedded atom method (MEAM) potential
+
+### Zr-Sn system:
+
+MEAM potential: **ZrSn.meam**, **ZrSn.library**
+
+If you use the dataset or/and the potential, please cite: <https://doi.org/10.1016/j.jnucmat.2023.154794>
+
+> Haojie Mei, Liang Chen, Feifei Wang, et al. Development of Machine Learning and Empirical Interatomic Potentials for the Binary Zr-Sn System[J]. Journal of Nuclear Materials, 2023: 154794.

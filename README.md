@@ -3,7 +3,7 @@
 
 ### Zr-Sn system:
 
-Fitting dataset: **ZrSn.cfg**
+Fitting dataset: **ZrSn_cfg.zip**
 
 MTP potential: **ZrSn.mtp**  
 

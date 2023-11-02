@@ -15,7 +15,7 @@ If you use the dataset or/and the potential, please cite: <https://doi.org/10.10
 
 ### Zr-Sn system:
 
-MEAM potential: **ZrSn.meam**, **ZrSn.library**
+MEAM potential: **ZrSn.meam**, **ZrSn_library.meam**
 
 If you use the dataset or/and the potential, please cite: <https://doi.org/10.1016/j.jnucmat.2023.154794>
 

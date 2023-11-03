@@ -3,7 +3,7 @@ This repository presents the training datasets and the derived Moment Tensor Pot
 
 You are advised to cite the following paper if the dataset and/or the potentials are used in your publications:
 
-> Haojie Mei, Liang Chen, Feifei Wang, Guisen Liu, Jing Hu, Weitong Lin, Yao Shen, Jinfu Li, Lingti Kong. Development of Machine Learning and Empirical Interatomic Potentials for the Binary Zr-Sn System. Journal of Nuclear Materials 588:154794, 2024.
+> Haojie Mei, Liang Chen, Feifei Wang, Guisen Liu, Jing Hu, Weitong Lin, Yao Shen, Jinfu Li, Lingti Kong. Development of Machine Learning and Empirical Interatomic Potentials for the Binary Zr-Sn System. Journal of Nuclear Materials 588:154794, 2024. https://doi.org/10.1016/j.jnucmat.2023.154794
 
 ## Training set (Fitting\_data)
 The training dataset that can be used readily by the MLIP.

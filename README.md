@@ -22,3 +22,6 @@ Feel free to drop a line if you have further concern:
 Haojie Mei meihaojie@sjtu.edu.cn
 
 Lingti Kong konglt@sjtu.edu.cn
+
+## License
+Each file included in this repository is licensed under the [CC BY License](https://github.com/meihaojie/Zr_Sn_system/blob/main/LICENSE).
